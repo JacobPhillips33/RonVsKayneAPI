@@ -1,0 +1,17 @@
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\bin\Debug\net6.0\RonVsKanye.exe
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\bin\Debug\net6.0\RonVsKanye.deps.json
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\bin\Debug\net6.0\RonVsKanye.runtimeconfig.json
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\bin\Debug\net6.0\RonVsKanye.dll
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\bin\Debug\net6.0\RonVsKanye.pdb
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\obj\Debug\net6.0\RonVsKanye.csproj.AssemblyReference.cache
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\obj\Debug\net6.0\RonVsKanye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\obj\Debug\net6.0\RonVsKanye.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\obj\Debug\net6.0\RonVsKanye.AssemblyInfo.cs
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\obj\Debug\net6.0\RonVsKanye.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\obj\Debug\net6.0\RonVsKanye.csproj.CopyComplete
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\obj\Debug\net6.0\RonVsKanye.dll
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\obj\Debug\net6.0\refint\RonVsKanye.dll
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\obj\Debug\net6.0\RonVsKanye.pdb
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\obj\Debug\net6.0\RonVsKanye.genruntimeconfig.cache
+C:\Users\Jake\Desktop\Repos\RonVsKanye\RonVsKanye\obj\Debug\net6.0\ref\RonVsKanye.dll
